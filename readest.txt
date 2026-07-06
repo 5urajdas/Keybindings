@@ -1,0 +1,65 @@
+Keyboard Shortcuts Reference Guide
+Huang Xin edited this page 3 weeks ago · 12 revisions
+
+This document provides a comprehensive list of keyboard shortcuts available in the application.
+Navigation Shortcuts
+Sidebar and Panel Controls
+
+    Switch Sidebar: Ctrl+Tab / Alt+Tab / Option+Tab
+    Toggle Sidebar: s
+    Toggle Notebook: n
+    Toggle Search Bar: Ctrl+f / Cmd+f
+    Toggle Bookmark: Ctrl+d / Cmd+d
+    Toggle Command Palette: Ctrl+Shift+p / Cmd+Shift+p
+
+Annotation Tools
+
+    Copy Selection: Ctrl+c / Cmd+c
+    Highlight Selection: Ctrl+h / Cmd+h
+    Underline Selection: Ctrl+u / Cmd+u
+    Search Selection: Ctrl+f / Cmd+f
+    Dictionary Lookup: Ctrl+d / Cmd+d
+    Wikipedia Lookup: Ctrl+w / Cmd+w
+    Translate Selection: Ctrl+t / Cmd+t
+    Read Aloud Selection: Ctrl+r / Cmd+r
+
+Movement and Navigation
+
+    Go Left: ← / PageUp / h
+    Go Right: → / PageDown / l
+    Go Next: ↓ / j
+    Go Previous: ↑ / k
+    Go Half Page Next (only in scrolled mode): Shift+↓ / d
+    Go Half Page Previous (only in scrolled mode): Shift+↑ / u
+    Go Previous Section: Alt+↑ / Opt+↑
+    Go Next Section: Alt+↓ / Opt+↓
+    Go Back: Alt+← / Shift+← / Shift+h
+    Go Forward: Alt+→ / Shift+→ / Shift+l
+
+View Controls
+Zoom Controls
+
+    Zoom In: Ctrl+= / Cmd+= / Shift+=
+    Zoom Out: Ctrl+- / Cmd+- / Shift+-
+    Reset Zoom: Ctrl+0 / Cmd+0
+
+Display Settings
+
+    Toggle Scroll Mode: Shift+j
+    Open Font/Layout Settings: Shift+f / Ctrl+, / Cmd+,
+
+Application Controls
+
+    Reload Page: Shift+r
+    Close Window: Ctrl+w / Cmd+w
+    Quit Application: Ctrl+q / Cmd+q
+
+Notes
+
+    On macOS, use Cmd instead of Ctrl where applicable
+    Arrow keys can be used as shown with the arrow symbols (←, →, ↑, ↓) or written as ArrowLeft, ArrowRight, ArrowUp, ArrowDown
+
+Tips
+Most navigation can be done using either arrow keys or vim-style h/j/k/l keys
+Common operations like search and zoom follow standard keyboard shortcuts across platforms
+The sidebar can be quickly toggled with a single key (s) for more reading space

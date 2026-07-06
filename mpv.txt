@@ -1,0 +1,8 @@
+1 & 2 : contrast up or down
+3 & 4 : brightness
+
+z & x : subtitle delay (100 ms unit)
+
+scroll whell : volume
+
+space or right clck : pause

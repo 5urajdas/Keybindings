@@ -1,0 +1,9 @@
+ctrl + alt + c -> toggle compact mode
+ctrl + alt + s -> toggle floating sidebar
+ctrl + alt + x -> ai chatbot sidebar
+ctrl + h -> history panel
+ctrl + b -> bookmark panel
+ctrl + shift + u -> bitwarden popup
+
+--- 
+tiling shortcuts 
