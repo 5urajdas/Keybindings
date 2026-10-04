@@ -1,0 +1,6 @@
+super + r -> resize window
+super + f -> window takes up entire screen
+super + direction -> scrolls through windows in that workspace
+super + scroll -> (gnome) scrolls through workspaces
+ctrl + super + ->(right key) -> move active win to the right
+ctrl + super + <-(left key) -> move active win to the left
